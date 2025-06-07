@@ -19,7 +19,7 @@ A plataforma integra sensores que captam os seguintes parâmetros:
 - Qualidade do ar (poluição atmosférica)
 
 ---
-##🎥Link de vídeo explicativo:
+## 🎥Link de vídeo explicativo:
 
 ```
 https://www.youtube.com/shorts/p7_4DaudILg?si=smN__2aFH3mBj79i
